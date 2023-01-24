@@ -1,0 +1,19 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waldemar-00/coursera.git"
+  },
+  "author": "uladzimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waldemar-00/coursera/issues"
+  },
+  "homepage": "https://github.com/Waldemar-00/coursera#readme"
+}
